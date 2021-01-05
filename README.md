@@ -6,7 +6,7 @@
 4. Open a web browser and enter the address
 
 
-#User Guide
+# User Guide
 
 ## Availability Check
 
